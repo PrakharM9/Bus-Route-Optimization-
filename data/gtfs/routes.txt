@@ -1,0 +1,164 @@
+line_id,line_short_name,line_long_name,route_id,agency_id,route_short_name,route_long_name,route_type,path_type,circular,school,route_color,route_text_color,continuous_pickup,continuous_drop_off
+1,1,Parede Terminal - CascaiShopping via Estoril,M01_A,21,1,Parede - CascaiShopping,3,1,1,0,ce5504,ffffff,0,0
+1,1,Parede Terminal - CascaiShopping via Estoril,M01_B,21,1,Parede - CascaiShopping IronMan,3,3,1,0,ce5504,ffffff,0,0
+1,1,Parede Terminal - CascaiShopping via Estoril,M01_C,21,1,Parede - CascaiShopping Maratona,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_A,21,2,Cascais - Chesol - Charneca - Malveira - Murches - Cascais,3,1,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_B,21,2,Cascais - Chesol - Charneca - Malveira - Murches,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_C,21,2,Cascais - Malveira,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_D,21,2,Cascais - Malveira - Murches - Cascais,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_E,21,2,Malveira - Murches - Cascais,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_F,21,2,Malveira - Murches - Torre - Cascais,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_G,21,2,Cascais - Chesol - Charneca - Cascais IronMan,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_H,21,2,Murches - Torre - Cascais IronMan,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_I,21,2,Murches - Cascais IronMan,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_J,21,2,Cascais - Chesol - Charneca - Malveira - Murches - Cascais Maratona,3,3,1,0,ce5504,ffffff,0,0
+2,2,Cascais Terminal via Malveira da Serra (Circular),M02_M,21,2,Malveira - Murches - Cascais Maratona,3,3,1,0,ce5504,ffffff,0,0
+3,3,CascaiShopping via Torre (Circular),M03_A,21,3,CascaiShopping - Torre - CascaiShopping,3,1,1,0,b10086,ffffff,0,0
+3,3,CascaiShopping via Torre (Circular),M03_B,21,3,CascaiShopping - Torre - EscPCoutinho - CascaiShopping,3,3,1,0,b10086,ffffff,0,0
+3,3,CascaiShopping via Torre (Circular),M03_C,21,3,Interface - Torre - CascaiShopping,3,3,1,0,b10086,ffffff,0,0
+3,3,CascaiShopping via Torre (Circular),M03_D,21,3,Interface - Torre - EscPCoutinho - CascaiShopping,3,3,1,0,b10086,ffffff,0,0
+3,3,CascaiShopping via Torre (Circular),M03_E,21,3,Interface - Torre - Interface,3,3,1,0,b10086,ffffff,0,0
+3,3,CascaiShopping via Torre (Circular),M03_F,21,3,Torre - CascaiShopping,3,3,1,0,b10086,ffffff,0,0
+3,3,CascaiShopping via Torre (Circular),M03_G,21,3,Torre - Interface,3,3,1,0,b10086,ffffff,0,0
+3,3,CascaiShopping via Torre (Circular),M03_H,21,3,Hospital - Torre - Hospital IronMan,3,3,1,0,b10086,ffffff,0,0
+3,3,CascaiShopping via Torre (Circular),M03_I,21,3,Torre - Hospital IronMan,3,3,1,0,b10086,ffffff,0,0
+4,4,Cascais Estação via Torre (Circular),M04_A,21,4,Cascais - Torre - Cascais,3,1,1,0,b10086,ffffff,0,0
+5,5,Cascais Estação via Qta. da Marinha e Guincho (Circular),M05_A,21,5,Cascais - Qta da Marinha - Guincho -Cascais,3,1,1,0,0d7215,ffffff,0,0
+5,5,Cascais Estação via Qta. da Marinha e Guincho (Circular),M05_B,21,5,Cascais - Guincho - Cascais,3,3,1,0,0d7215,ffffff,0,0
+5,5,Cascais Estação via Qta. da Marinha e Guincho (Circular),M05_C,21,5,Areia - Cascais,3,3,1,0,0d7215,ffffff,0,0
+5,5,Cascais Estação via Qta. da Marinha e Guincho (Circular),M05_D,21,5,Areia - Cascais Maratona,3,3,1,0,0d7215,ffffff,0,0
+5,5,Cascais Estação via Qta. da Marinha e Guincho (Circular),M05_E,21,5,Cascais - Guincho - Cascais Maratona,3,3,1,0,0d7215,ffffff,0,0
+5,5,Cascais Estação via Qta. da Marinha e Guincho (Circular),M05_F,21,5,Cascais - Qta da Marinha - Guincho - Cascais Maratona,3,3,1,0,0d7215,ffffff,0,0
+6,6,Cascais Terminal - Estoril Estação via Fisgas,M06_A,21,6,Cascais - Estoril,3,1,1,0,0071ca,ffffff,0,0
+6,6,Cascais Terminal - Estoril Estação via Fisgas,M06_B,21,6,Estoril - Escola Ibn Mucana,3,3,1,0,0071ca,ffffff,0,0
+6,6,Cascais Terminal - Estoril Estação via Fisgas,M06_C,21,6,Cascais - CascaiShopping IronMan,3,3,1,0,0071ca,ffffff,0,0
+6,6,Cascais Terminal - Estoril Estação via Fisgas,M06_D,21,6,Cascais - Estoril Maratona,3,3,1,0,0071ca,ffffff,0,0
+7,7,Cascais Terminal - Estoril Estação via Amoreira,M07_A,21,7,Cascais - Estoril,3,1,1,0,cc9b00,ffffff,0,0
+7,7,Cascais Terminal - Estoril Estação via Amoreira,M07_B,21,7,Rua D. Bosco - Estoril,3,3,1,0,cc9b00,ffffff,0,0
+7,7,Cascais Terminal - Estoril Estação via Amoreira,M07_C,21,7,Cascais - Estoril IronMan,3,3,1,0,cc9b00,ffffff,0,0
+7,7,Cascais Terminal - Estoril Estação via Amoreira,M07_D,21,7,Cascais - Estoril Maratona,3,3,1,0,cc9b00,ffffff,0,0
+8,8,Cascais Terminal via Alvide (Circular),M08_A,21,8,Cascais - Alvide - Cascais,3,1,1,0,ad0101,ffffff,0,0
+8,8,Cascais Terminal via Alvide (Circular),M08_B,21,8,Cascais - Alvide,3,3,1,0,ad0101,ffffff,0,0
+8,8,Cascais Terminal via Alvide (Circular),M08_C,21,8,Alvide - Cascais,3,3,1,0,ad0101,ffffff,0,0
+8,8,Cascais Terminal via Alvide (Circular),M08_D,21,8,Cascais - Alvide - Cascais Maratona,3,3,1,0,ad0101,ffffff,0,0
+8,8,Cascais Terminal via Alvide (Circular),M08_E,21,8,Alvide - Cascais Maratona,3,3,1,0,ad0101,ffffff,0,0
+9,9,Cascais Estação via Cobre e Bairro Santana (Circular),M09_A,21,9,Cascais - Pampilheira - Santana - Cascais,3,1,1,0,049684,ffffff,0,0
+9,9,Cascais Estação via Cobre e Bairro Santana (Circular),M09_B,21,9,Cascais - Santana - Pampilheira - Cascais,3,3,1,0,049684,ffffff,0,0
+10,10,Malveira da Serra - CascaiShopping Terminal via Zambujeiro,M10_A,21,10,GD Malveira - CascaiShopping Interface,3,1,1,0,b10086,ffffff,0,0
+10,10,Malveira da Serra - CascaiShopping Terminal via Zambujeiro,M10_B,21,10,Malveira - CascaiShopping Interface,3,3,1,0,b10086,ffffff,0,0
+10,10,Malveira da Serra - CascaiShopping Terminal via Zambujeiro,M10_C,21,10,Zambujeiro - CascaiShopping Interface IronMan,3,3,1,0,b10086,ffffff,0,0
+11,11,Cascais Terminal - Estoril Estação via Cabreiro e Atrozela,M11_A,21,11,Cascais - Estoril,3,1,1,0,ad0101,ffffff,0,0
+11,11,Cascais Terminal - Estoril Estação via Cabreiro e Atrozela,M11_B,21,11,Cascais - Alcabideche IronMan,3,3,1,0,ad0101,ffffff,0,0
+11,11,Cascais Terminal - Estoril Estação via Cabreiro e Atrozela,M11_C,21,11,Cascais - Estoril Maratona,3,3,1,0,ad0101,ffffff,0,0
+12,12,Cascais Terminal - Estoril Estação via Amoreira,M12_A,21,12,Cascais - Estoril,3,1,1,0,cc9b00,ffffff,0,0
+12,12,Cascais Terminal - Estoril Estação via Amoreira,M12_B,21,12,Cascais - Estoril IronMan,3,3,1,0,cc9b00,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_A,21,13,Cascais - Estoril,3,1,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_B,21,13,Cascais - Bairro São José - Estoril,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_C,21,13,Cascais - Estação SJ Estoril,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_D,21,13,Cascais - Centro de Saúde SJ Estoril,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_E,21,13,Cascais - Bairro São José - Manique,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_F,21,13,Cascais - Manique,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_G,21,13,Cascais - Salesianos - Estoril,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_H,21,13,Manique - Estoril,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_I,21,13,Cascais - Estoril IronMan,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_J,21,13,Cascais - Bairro São José - Estoril IronMan,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_K,21,13,Cascais - Estação SJ Estoril IronMan,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_L,21,13,Cascais - Manique IronMan,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_M,21,13,Cascais - Estação SJ Estoril Maratona,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_N,21,13,Cascais - Centro de Saúde SJ Estoril Maratona,3,3,1,0,0d7215,ffffff,0,0
+13,13,Cascais Terminal - Estoril Estação via Manique,M13_O,21,13,Manique - Cascais Maratona,3,3,1,0,0d7215,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_A,21,14,Cascais - Murches - Malveira - Charneca - Chesol - Cascais,3,1,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_B,21,14,Cascais - Torre - Murches - Malveira,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_C,21,14,Cascais - EBPC - Murches - Malveira - Charneca - Chesol - Cascais,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_D,21,14,Cascais - EBPC - Murches - Malveira - Charneca - Chesol - EBPC - Cascais,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_E,21,14,Cascais - Murches - Malveira,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_F,21,14,Cascais - Murches - Malveira - Cascais,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_G,21,14,Cascais - Murches - Malveira - Charneca - Chesol - EBPC - Cascais,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_H,21,14,Cascais - Torre,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_I,21,14,Malveira - Cascais,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_J,21,14,Murches - Malveira - Charneca - Chesol - Cascais,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_K,21,14,Cascais - Murches - Chesol - Cascais IronMan,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_L,21,14,Cascais - Torre - Murches IronMan,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_M,21,14,Cascais - Murches IronMan,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_N,21,14,Murches - Chesol - Cascais IronMan,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_O,21,14,Cascais - Murches - Malveira - Charneca - Chesol - Cascais Maratona,3,3,1,0,049684,ffffff,0,0
+14,14,Cascais Terminal via Murches e Malveira da Serra (Circular),M14_P,21,14,Murches - Malveira - Charneca - Chesol - Cascais Maratona,3,3,1,0,049684,ffffff,0,0
+15,15,Cascais Estação via Areia e Guincho (Circular),M15_A,21,15,Cascais - Guincho - Qta Marinha - Cascais,3,1,1,0,ce5504,ffffff,0,0
+15,15,Cascais Estação via Areia e Guincho (Circular),M15_B,21,15,Cascais - Guincho - Cascais,3,3,1,0,ce5504,ffffff,0,0
+15,15,Cascais Estação via Areia e Guincho (Circular),M15_C,21,15,Cascais - Areia,3,3,1,0,ce5504,ffffff,0,0
+15,15,Cascais Estação via Areia e Guincho (Circular),M15_D,21,15,Cascais - Areia Maratona,3,3,1,0,ce5504,ffffff,0,0
+15,15,Cascais Estação via Areia e Guincho (Circular),M15_E,21,15,Cascais - Guincho - Cascais Maratona,3,3,1,0,ce5504,ffffff,0,0
+15,15,Cascais Estação via Areia e Guincho (Circular),M15_F,21,15,Cascais - Guincho - Qta Marinha - Cascais Maratona,3,3,1,0,ce5504,ffffff,0,0
+16,16,S. Domingos de Rana - Campus Carcavelos,M16_A,21,16,E. Leclerc - Campus,3,1,1,0,4e0963,ffffff,0,0
+16,16,S. Domingos de Rana - Campus Carcavelos,M16_B,21,16,Estação - Campus,3,3,1,0,4e0963,ffffff,0,0
+16,16,S. Domingos de Rana - Campus Carcavelos,M16_C,21,16,E. Leclerc - Campus IronMan,3,3,1,0,4e0963,ffffff,0,0
+16,16,S. Domingos de Rana - Campus Carcavelos,M16_D,21,16,E. Leclerc - Campus Maratona,3,3,1,0,4e0963,ffffff,0,0
+17,17,Cascais Terminal - Bairro da Cadeia do Linhó via Alvide e Hospital,M17_A,21,17,Cascais - Linhó,3,1,1,0,049684,ffffff,0,0
+17,17,Cascais Terminal - Bairro da Cadeia do Linhó via Alvide e Hospital,M17_B,21,17,Cascais - Linhó IronMan,3,3,1,0,049684,ffffff,0,0
+17,17,Cascais Terminal - Bairro da Cadeia do Linhó via Alvide e Hospital,M17_C,21,17,Cascais - Linhó Maratona,3,3,1,0,049684,ffffff,0,0
+18,18,Cascais Terminal - Bairro da Cadeia do Linhó via Abuxarda,M18_A,21,18,Cascais - Linhó,3,1,1,0,4e0963,ffffff,0,0
+19,19,Estoril Estação via Galiza e Pau Gordo (Circular),M19_A,21,19,Estoril - Galiza - SJ Estoril - Alapraia - Pau Gordo - Estoril,3,1,1,0,0d7215,ffffff,0,0
+19,19,Estoril Estação via Galiza e Pau Gordo (Circular),M19_B,21,19,Estoril - Galiza - SJ Estoril - Alapraia - Pau Gordo - Estoril IronMan,3,3,1,0,0d7215,ffffff,0,0
+19,19,Estoril Estação via Galiza e Pau Gordo (Circular),M19_C,21,19,Estoril - Galiza - SJ Estoril - Alapraia - Pau Gordo - Estoril Maratona,3,3,1,0,0d7215,ffffff,0,0
+20,20,Estoril Estação - Bairro da Cadeia do Linhó via Amoreira,M20_A,21,20,Estoril - Linhó,3,1,1,0,b10086,ffffff,0,0
+20,20,Estoril Estação - Bairro da Cadeia do Linhó via Amoreira,M20_B,21,20,Estoril - Linhó IronMan,3,3,1,0,b10086,ffffff,0,0
+20,20,Estoril Estação - Bairro da Cadeia do Linhó via Amoreira,M20_C,21,20,Estoril - Linhó Maratona,3,3,1,0,b10086,ffffff,0,0
+21,21,Carcavelos Estação - Talaíde,M21_A,21,21,Carcavelos - Talaíde,3,1,1,0,049684,ffffff,0,0
+21,21,Carcavelos Estação - Talaíde,M21_B,21,21,Carcavelos - Talaíde IronMan,3,2,1,0,049684,ffffff,0,0
+21,21,Carcavelos Estação - Talaíde,M21_C,21,21,Carcavelos - Talaíde Maratona,3,3,1,0,049684,ffffff,0,0
+22,22,Carcavelos Estação - Cascais Terminal via Manique,M22_A,21,22,Carcavelos - Cascais,3,1,1,0,ad0101,ffffff,0,0
+22,22,Carcavelos Estação - Cascais Terminal via Manique,M22_B,21,22,Carcavelos - CascaiShopping Interface,3,3,1,0,ad0101,ffffff,0,0
+22,22,Carcavelos Estação - Cascais Terminal via Manique,M22_C,21,22,CascaiShopping Interface - Cascais,3,3,1,0,ad0101,ffffff,0,0
+22,22,Carcavelos Estação - Cascais Terminal via Manique,M22_D,21,22,Cascais - Manique ,3,3,1,0,ad0101,ffffff,0,0
+22,22,Carcavelos Estação - Cascais Terminal via Manique,M22_E,21,22,Carcavelos - CascaiShopping IronMan,3,3,1,0,ad0101,ffffff,0,0
+22,22,Carcavelos Estação - Cascais Terminal via Manique,M22_F,21,22,Carcavelos - Cascais Maratona,3,3,1,0,ad0101,ffffff,0,0
+22,22,Carcavelos Estação - Cascais Terminal via Manique,M22_G,21,22,CascaiShopping Interface - Carcavelos Maratona,3,3,1,0,ad0101,ffffff,0,0
+22,22,Carcavelos Estação - Cascais Terminal via Manique,M22_H,21,22,CascaiShopping Interface - Cascais Maratona,3,3,1,0,ad0101,ffffff,0,0
+23,23,Talaíde - Estoril Estação,M23_A,21,23,Talaíde - Estoril,3,1,1,0,0d7215,ffffff,0,0
+23,23,Talaíde - Estoril Estação,M23_B,21,23,NOTURNO Carcavelos - Estoril,3,3,1,0,0d7215,ffffff,0,0
+23,23,Talaíde - Estoril Estação,M23_C,21,23,Talaíde - Estoril IronMan Maratona,3,3,1,0,0d7215,ffffff,0,0
+23,23,Talaíde - Estoril Estação,M23_D,21,23,NOTURNO Carcavelos - Estoril IronMan,3,3,1,0,0d7215,ffffff,0,0
+24,24,Carcavelos Estação - Manique,M24_A,21,24,Carcavelos - Manique,3,1,1,0,4e0963,ffffff,0,0
+25,25,Parede Terminal via Carcavelos e S.D. Rana (Circular),M25_A,21,25,Parede - Carcavelos - Sassoeiros - Zambujal - Parede,3,1,1,0,0071ca,ffffff,0,0
+25,25,Parede Terminal via Carcavelos e S.D. Rana (Circular),M25_B,21,25,Parede - Carcavelos - Sassoeiros - Zambujal - Parede IronMan,3,2,1,0,0071ca,ffffff,0,0
+25,25,Parede Terminal via Carcavelos e S.D. Rana (Circular),M25_C,21,25,Parede - Carcavelos - Sassoeiros - Zambujal - Parede Maratona,3,3,1,0,0071ca,ffffff,0,0
+26,26,Parede Terminal via Matarraque (Circular),M26_A,21,26,Parede - Matarraque - Parede,3,1,1,0,ce5504,ffffff,0,0
+26,26,Parede Terminal via Matarraque (Circular),M26_B,21,26,Parede - Tires - Caparide - Parede,3,3,1,0,ce5504,ffffff,0,0
+26,26,Parede Terminal via Matarraque (Circular),M26_C,21,26,Parede - Matarraque - Largo 31 de Março - Parede,3,3,1,0,ce5504,ffffff,0,0
+27,27,Cascais Estação (Circular),M27_A,21,27,Cascais - Cascais,3,1,1,0,0071ca,ffffff,0,0
+27,27,Cascais Estação (Circular),M27_B,21,27,Escola Secundária - Cascais,3,3,1,0,0071ca,ffffff,0,0
+28,28,Malveira da Serra - CascaiShopping Terminal via Depósitos da Água,M28_A,21,28,GD Malveira - CascaiShopping Interface,3,1,1,0,049684,ffffff,0,0
+28,28,Malveira da Serra - CascaiShopping Terminal via Depósitos da Água,M28_B,21,28,Malveira - CascaiShopping Interface,3,3,1,0,049684,ffffff,0,0
+28,28,Malveira da Serra - CascaiShopping Terminal via Depósitos da Água,M28_C,21,28,Malveira - CascaiShopping Interface IronMan,3,3,1,0,049684,ffffff,0,0
+29,29,São João do Estoril Estação - CascaiShopping Terminal,M29_A,21,29,SJ Estoril - CascaiShopping Interface,3,1,1,0,ad0101,ffffff,0,0
+29,29,São João do Estoril Estação - CascaiShopping Terminal,M29_B,21,29,Parede Terminal - Murtal - Alapraia - SJ Estoril - CascaiShopping Interface,3,3,1,0,ad0101,ffffff,0,0
+30,30,Parede Terminal - Abóboda - Polima,M30_A,21,30,Parede - Abóboda,3,1,1,0,0071ca,ffffff,0,0
+30,30,Parede Terminal - Abóboda - Polima,M30_B,21,30,Parede - Abóboda - Polima,3,3,1,0,0071ca,ffffff,0,0
+31,31,Carcavelos Estação - Hospital de Cascais via Bicesse,M31_A,21,31,Carcavelos - Hospital de Cascais,3,1,1,0,0071ca,ffffff,0,0
+31,31,Carcavelos Estação - Hospital de Cascais via Bicesse,M31_B,21,31,Carcavelos - Hospital de Cascais IronMan,3,3,1,0,0071ca,ffffff,0,0
+31,31,Carcavelos Estação - Hospital de Cascais via Bicesse,M31_C,21,31,Carcavelos - Hospital de Cascais Maratona,3,3,1,0,0071ca,ffffff,0,0
+32,32,Parede Terminal - Trajouce via Murtal,M32_A,21,32,Parede - Trajouce,3,1,1,0,cc9b00,ffffff,0,0
+33,33,Arneiro via S. D. Rana e Tires (Circular),M33_A,21,33,E.Leclerc - Sassoeiros - Tires - E.Leclerc,3,1,1,0,4e0963,ffffff,0,0
+34,34,Cascais Estação - Costa da Guia,M34_A,21,34,Cascais - Rua dos Cedros,3,1,1,0,ce5504,ffffff,0,0
+35,35,Trajouce Norte - Carcavelos Estação via S. Domingos de Rana,M35_A,21,35,Trajouce - Carcavelos,3,1,1,0,ad0101,ffffff,0,0
+35,35,Trajouce Norte - Carcavelos Estação via S. Domingos de Rana,M35_B,21,35,Trajouce - Carcavelos IronMan,3,3,1,0,ad0101,ffffff,0,0
+35,35,Trajouce Norte - Carcavelos Estação via S. Domingos de Rana,M35_C,21,35,Trajouce - Carcavelos Maratona,3,3,1,0,ad0101,ffffff,0,0
+36,36,Trajouce Norte - Carcavelos Estação via Outeiro da Polima,M36_A,21,36,Trajouce - Carcavelos,3,1,1,0,4e0963,ffffff,0,0
+36,36,Trajouce Norte - Carcavelos Estação via Outeiro da Polima,M36_B,21,36,Trajouce - Carcavelos IronMan,3,3,1,0,4e0963,ffffff,0,0
+36,36,Trajouce Norte - Carcavelos Estação via Outeiro da Polima,M36_C,21,36,Trajouce - Carcavelos Maratona,3,3,1,0,4e0963,ffffff,0,0
+37,37,São Domingos de Rana (Circular),M37_A,21,37,Circular SDR,3,1,1,0,880e4f,ffffff,0,0
+38,38,Estoril Estação - CascaiShopping,M38_A,21,38,Estoril - CascaiShopping,3,1,1,0,5A8400,ffffff,0,0
+38,38,Estoril Estação - CascaiShopping,M38_B,21,38,Estoril - CascaiShopping Maratona,3,3,1,0,5A8400,ffffff,0,0
+39,39,Cascais Terminal - S. João do Estoril via Alto de Bicesse,M39_A,21,39,Cascais (Terminal) - S. J. Estoril (Estação),3,1,1,0,ad0101,ffffff,0,0
+39,39,Cascais Terminal - S. João do Estoril via Alto de Bicesse,M39_B,21,39,Cascais (Terminal) - Alto de Bicesse,3,3,1,0,ad0101,ffffff,0,0
+39,39,Cascais Terminal - S. João do Estoril via Alto de Bicesse,M39_C,21,39,Rot. Est. Manique - S. J. Estoril (Estação),3,3,1,0,ad0101,ffffff,0,0
+40,40,Hospital de Cascais - Malveira da Serra (Circular),M40_A,21,40,Hospital - Malveira - Hospital,3,1,1,0,A92023,ffffff,0,0
+40,40,Hospital de Cascais - Malveira da Serra (Circular),M40_B,21,40,Hospital - Malveira,3,3,1,0,A92023,ffffff,0,0
+41,41,Carcavelos Estação (Circular),M41_A,21,41,Circular Carcavelos ,3,1,1,0,0d7215,ffffff,0,0
+42,42,Conceição da Abóboda - Escola Secundária de Carcavelos,M42_A,21,42,Conceição da Abóboda - ES Carcavelos,3,1,1,0,A92023,ffffff,0,0
+43,43,Cascais Estação (Largo) via Guincho (Circular),M43_A,21,43,Cascais - Guincho - Cascais,3,1,1,0,007DBD,ffffff,0,0
+44,44,Cascais Estação (Largo) - Quinta do Pisão,M44_A,21,44,Cascais - Quinta do Pisão,3,1,1,0,066A40,ffffff,0,0
+45,45,Malveira da Serra (Escolar),M45_A,21,45,Malveira da Serra Circular,3,1,1,0,4a90e2,FFFFFF,0,0
+45,45,Malveira da Serra (Escolar),M45_B,21,45,Murches -  Torre,3,3,1,0,4a90e2,FFFFFF,0,0
+45,45,Malveira da Serra (Escolar),M45_C,21,45,Torre - Rotunda de Juso,3,3,1,0,4a90e2,FFFFFF,0,0
+46,46,S. Pedro do Estoril (Escolar),M46_A,21,46,S. Pedro do Estoril (Escolar),3,1,1,0,9013fe,FFFFFF,0,0

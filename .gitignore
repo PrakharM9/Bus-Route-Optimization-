@@ -1,0 +1,43 @@
+
+# Hadoop / Spark checksum files
+*.crc
+
+# Spark temporary files
+spark-warehouse/
+metastore_db/
+derby.log
+tmp/
+temp/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Windows temporary files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Java / Scala build outputs
+target/
+project/target/
+
+# OS temporary files
+*.tmp
+*.bak
